@@ -1,6 +1,6 @@
 # Jokenpo (Pedra, Papel e Tesoura) em Python
-Projeto de estudos em Python
-Jogo simples de pedra, papel e tesoura contra a máquina, feito em Python
+- Projeto de estudos em Python
+- Jogo simples de pedra, papel e tesoura contra a máquina, feito em Python
 # Como funciona
 - O jogador digita sua escolha (pedra, papel ou tesoura)
 - A máquina sorteia a dela aleatoriamente
