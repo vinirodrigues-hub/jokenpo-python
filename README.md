@@ -17,6 +17,6 @@ python jokenpo.py
 - Separar lógica em funções
 - Interface gráfica ou versão web
 # Autor
-- Vini - (vinirodrigues-hub) - Estudante de Engenharia de Software - UDF Centro Universitário
+- Vinícius Silva Rodrigues - (vinirodrigues-hub) - Estudante de Engenharia de Software - UDF Centro Universitário
 
 
