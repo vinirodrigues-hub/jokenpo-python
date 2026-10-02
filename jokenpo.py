@@ -3,6 +3,14 @@ opcoes = ["pedra", "papel", "tesoura"]
 vitoria_maquina = 0
 vitoria_user = 0
 empate = 0
+print("""
+Como jogar?
+1 - Escolha uma opção (pedra, papel ou tesoura);
+2 - A máquina vai escolher uma opção;
+3 - Caso você ganhe, sera contabilizado, se perder tambem, e se empatar tambem;
+4 - Pedra vence tesoura, papel vence pedra e tesoura vence papel.
+Boa sorte!
+""")
 while True:
     maquina = random.choice(opcoes)
     user = input("Digite sua escolha: ")
