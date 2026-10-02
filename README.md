@@ -13,7 +13,6 @@ Precisa ter Python 3 instalado
 python jokenpo.py
 ```
 # Possíveis melhorias futuras
-- Validação de entrada
 - Separar lógica em funções
 - Interface gráfica ou versão web
 # Autor
