@@ -7,7 +7,7 @@ print("""
 Como jogar?
 1 - Escolha uma opção (pedra, papel ou tesoura);
 2 - A máquina vai escolher uma opção;
-3 - Caso você ganhe, sera contabilizado, se perder tambem, e se empatar tambem;
+3 - Suas vitórias, derrotas e empates serão contabilizados;
 4 - Pedra vence tesoura, papel vence pedra e tesoura vence papel.
 Boa sorte!
 """)
@@ -41,3 +41,7 @@ while True:
     elif final == "n":
         print("Ok, volte sempre!")
         break
+print("Resultado Final:")
+print(f"Suas vitórias: {vitoria_user}")
+print(f"Vitórias da máquina: {vitoria_maquina}")
+print(f"Empates: {empate}")  
